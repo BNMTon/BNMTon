@@ -1,5 +1,5 @@
 ###  👋
-<h1>Hi, I'm Tonja, an <a href="https://linkedin.com/in/Tonja.Benton@yahoo.com">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tonja, an <a href="https://linkedin.com/in/benton.tonja@yahoo.com">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
