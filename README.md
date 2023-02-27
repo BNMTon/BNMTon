@@ -21,4 +21,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/Tonja
+[linkedin]: https://linkedin.com/in/benton.tonja@yahoo.com
